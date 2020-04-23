@@ -1,4 +1,4 @@
 first_number = 0
 second_number = 1
 sum = 0 + 1
-
+difference = 0 - 1
